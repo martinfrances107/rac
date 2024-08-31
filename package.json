@@ -58,7 +58,7 @@
     "rollup-plugin-uglify": "^6.0.3",
     "stylelint": "^11.0.0",
     "stylelint-config-prettier": "^6.0.0",
-    "webpack": "^4.41.0"
+    "webpack": "^5.94.0"
   },
   "peerDependencies": {
     "react": "^16.8"
